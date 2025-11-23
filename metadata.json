@@ -1,0 +1,5 @@
+{
+  "name": "Cosmos Explorer",
+  "description": "A high-performance, interactive 3D-simulated 2D Solar System visualization using React and Tailwind. Features real-time orbital mechanics, Gemini-powered planetary insights, and deep space aesthetics.",
+  "requestFramePermissions": []
+}
